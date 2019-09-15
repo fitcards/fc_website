@@ -1,0 +1,8 @@
+{
+  "name": "fc_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fitcards/fc_website.git",
+  "author": "Anders <819213+andersr@users.noreply.github.com>",
+  "license": "MIT"
+}
